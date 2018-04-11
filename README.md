@@ -4,10 +4,10 @@
 
 ## 我打印了一个只含有三个字段的对象的速度比较
 
-##  04-11 10:45:30.545 1998-1998/? I/System.out: protobuf 序列化：2
+##  System.out: protobuf 序列化：2
 
-##  04-11 10:45:30.548 1998-1998/? I/System.out: protobuf 反序列化：1
+## System.out: protobuf 反序列化：1
 
-##  04-11 10:45:30.591 1998-1998/? I/System.out: json 序列化：43
+##  System.out: json 序列化：43
 
-##  04-11 10:45:30.605 1998-1998/? I/System.out: json 反序列化：8
+##  System.out: json 反序列化：8
