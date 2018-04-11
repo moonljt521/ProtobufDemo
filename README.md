@@ -5,12 +5,12 @@
 
 ## 我打印了一个只含有三个字段的对象的速度比较
 ```
-##  System.out: protobuf 序列化：2
+ System.out: protobuf 序列化：2
 
-## System.out: protobuf 反序列化：1
+ System.out: protobuf 反序列化：1
 
-##  System.out: json 序列化：43
+ System.out: json 序列化：43
 
-##  System.out: json 反序列化：8
+ System.out: json 反序列化：8
 
 ```
